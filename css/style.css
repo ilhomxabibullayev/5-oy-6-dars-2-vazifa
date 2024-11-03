@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+}
+#colorBox {
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    margin: 20px;
+}
